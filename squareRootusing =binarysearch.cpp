@@ -1,3 +1,8 @@
+
+https://practice.geeksforgeeks.org/problems/square-root/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
+
+
+
 class Solution{
   public:
     long long int floorSqrt(long long int x) 
